@@ -1,4 +1,4 @@
 ---
  - hosts: DevOps
    roles:
-   - /var/lib/jenkins/workspace/Ansible_Project/Apache_Ansible/roles/deploy_apache
+   - /var/lib/jenkins/workspace/Apache-Ansible-Learning/Apache_Ansible/roles/deploy_apache
